@@ -1,17 +1,17 @@
 body{
-    background-color: #ffd19b ;
+    background-color:  #FF0000 ;
 }
 a{
     text-decoration: none;
     font-family: sans-serif;
     text-transform: uppercase;
     color: black;
- background-color:#fcff62;
+ background-color: #FF0000;
 padding: 15 15;
 }
 a:hover{
 
-    background-color: #c9b8a4;
+    background-color: #FF0000;
 }
 h1{
  text-align: center;
