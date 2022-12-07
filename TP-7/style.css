@@ -1,0 +1,19 @@
+body {
+    background-image: linear-gradient(to bottom, #ff0000, #ff0000, #000000, #ffffff, #ffffff);
+    text-align: center;
+}
+h1{    
+text-align:center;
+color: rgb(255, 251, 0);
+font-family: impact;
+font-size: 40px;
+letter-spacing: 0;
+text-shadow: -4px -4px 4px #21a2d4, 4px -4px 4px #21a2d4, -4px 4px 4px #21a2d4, 4px 4px 4px #21a2d4;
+}
+button{
+    background-image: linear-gradient(to bottom, #ff0000, #ff0000, #000000, #ffffff, #ffffff);
+    text-shadow: -4px -4px 4px #0b668a, 4px -4px 4px #0b668a, -4px 4px 4px #0b668a, 4px 4px 4px #0b668a;
+}
+card{
+    color: rgb(255, 251, 0);
+}
